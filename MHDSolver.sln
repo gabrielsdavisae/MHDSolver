@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36429.23 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "MHDSolver", "MHDSolver\MHDSolver.pyproj", "{5BA83DC7-4086-40E7-B777-1F4C72A87E44}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5BA83DC7-4086-40E7-B777-1F4C72A87E44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BA83DC7-4086-40E7-B777-1F4C72A87E44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8E91EF0F-9559-4D97-A58F-AF9D53B5C893}
+	EndGlobalSection
+EndGlobal
